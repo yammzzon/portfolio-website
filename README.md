@@ -2,7 +2,18 @@
 <html>
     <head>
         <title>Portfolio Website</title>
+        <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     </head>
+    <div>
+        <header>
+            <nav class="flex justify-between">
+                <div>
+                    <h3>Portfolio</h3>
+                </div>
+                <div class="flex items-center space-x-8">
+            </nav>
+        </header>
+    </div>
     <body>
     <h1>PORTFOLIO WEBSITE</h1>
     </body>
